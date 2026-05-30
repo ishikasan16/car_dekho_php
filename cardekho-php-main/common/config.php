@@ -2,7 +2,7 @@
 $host = "localhost";
 $user = "root";
 $pass = "";
-$db   = "cardekho_db";
+$db   = "car_dekho_db";
 
 $conn = mysqli_connect($host, $user, $pass, $db);
 
